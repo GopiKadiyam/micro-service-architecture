@@ -1,2 +1,2 @@
 # micro-service-architecture
-using spring boot
+creating a project using spring boot framework in microservice architecture
