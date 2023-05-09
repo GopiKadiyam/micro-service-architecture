@@ -75,7 +75,6 @@ public class OrderController {
 
             System.out.println("***order**"+orders);
             for(Order order:orders){
-
                 Product product=productService.product(order.getProductId());
                 User user=userService.user(order.getUserId());
                 // business logic end
