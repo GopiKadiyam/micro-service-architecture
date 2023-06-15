@@ -13,7 +13,6 @@ import java.util.List;
 @RequestMapping("/product")
 public class ProductController {
 
-
     static List<Product> db =new ArrayList<>();
 
     static {
